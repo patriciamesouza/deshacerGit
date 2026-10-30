@@ -1,2 +1,16 @@
-Primera linea
-Segunda linea
+feat: nueva funcionalidad
+feat(login): añade validacion de email en el formulario
+feat(api)!: cambia el formato de respuesta de usuarios
+
+fix: corregir un error
+fix(db): corrige consulta que devolvia clientes duplicados
+fix(carrito): evita total negativo con cupones
+
+docs: cambios en documentacion
+docs: actualiza README con instruciones de instalacion
+
+style: formato (espacio, comas) sin cambiar la logica
+refactor: reestructurar codigo sin cambiar su comportamiento
+test: anadir o corregir tests
+chore: tareas de mantenimiento (dependencias, configuracion)
+perf: mejoras de rendimiento
